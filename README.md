@@ -6,7 +6,7 @@
 
 ### 📊 Dados & BI
 - 📑 **Excel** (Dashboards, Power Query, DAX, Tabelas Dinâmicas)
-- 🐍 **Python** (Pandas, Scikit-learn, FastAPI)
+- 🐍 **Python** (NumPy, Pandas, Scikit-learn, FastAPI)
 - 🗄️ **SQL** (PostgreSQL) - Consultas analíticas
 - 📊 **Power BI** (Dashboards interativos, DAX)
 - 🤖 **Machine Learning** (Previsão de vendas)
