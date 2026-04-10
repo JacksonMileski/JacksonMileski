@@ -1,16 +1,43 @@
-## Hi there 👋
+# Jackson Luis Mileski
 
-<!--
-**JacksonMileski/JacksonMileski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 **Analista de Dados** | 💻 **Full Stack** | 🎨 **UI Design**
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Dados & BI
+- 📑 **Excel** (Dashboards, Power Query, DAX, Tabelas Dinâmicas)
+- 🐍 **Python** (Pandas, Scikit-learn, FastAPI)
+- 🗄️ **SQL** (PostgreSQL) - Consultas analíticas
+- 📊 **Power BI** (Dashboards interativos, DAX)
+- 🤖 **Machine Learning** (Previsão de vendas)
+
+### 🌐 Frontend
+- 📄 **HTML5, CSS3, Sass**
+- 🟨 **JavaScript, TypeScript**
+- ⚛️ **React**, **jQuery**, **Bootstrap**
+
+### ⚙️ Backend
+- 🐘 **PHP**, **Node.js**
+- 🔌 **APIs RESTful**
+
+### 🗃️ Banco de Dados
+- 🐘 **PostgreSQL**, 🍃 **MongoDB**
+
+### 🎨 Design & Prototipagem
+- 🖌️ **Figma**, **Photoshop**
+
+### 🔧 Versionamento
+- 📦 **Git**, **GitHub**
+
+---
+
+## 📌 Projeto em destaque
+**Análise completa Olist**
+- 99.441 pedidos analisados | R$ 15,8M em vendas
+- Python | SQL | Power BI | Machine Learning | API
+
+---
+
+## 📫 Contato
+LinkedIn: https://www.linkedin.com/in/jackson-luis-mileski-187579359
+GitHub: https://github.com/JacksonMileski
