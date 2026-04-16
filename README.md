@@ -36,7 +36,7 @@
 
 ## 📌 Projeto em destaque
 **Análise completa Olist**
-- - 99.092 pedidos analisados | R$ 15,8M em vendas
+- 99.092 pedidos analisados | R$ 15,8M em vendas
 - Python | SQL | Power BI | Machine Learning | API
 
 ---
